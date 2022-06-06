@@ -1,0 +1,10 @@
+.image{
+    width: 400px;
+    height: auto;
+    align-self: center;
+}
+.link{
+    color: coral;
+    text-align: center;
+    text-decoration: none;
+}
